@@ -62,7 +62,7 @@
   cursor: pointer;
 }
 
-.profile__button-edit_image {
+.profile__button-edit-image {
   margin-right: 8px;
   width: 18px;
   opacity: 70%;
@@ -84,7 +84,7 @@
   cursor: pointer;
 }
 
-.profile__button-new_image {
+.profile__button-new-image {
   width: 12px;
   height: 12px;
   margin-right: 8px;
