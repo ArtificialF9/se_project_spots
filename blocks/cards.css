@@ -5,10 +5,13 @@
 .cards__lists {
   margin: 0 auto;
   padding: 0;
+  max-width: 1280px;
   display: grid;
   grid-template-columns: repeat(auto-fit, 413px);
   list-style-type: none;
   gap: 40px 20px;
+}
+
 }
 
 @media screen and (max-width: 630px) {
