@@ -50,11 +50,15 @@
 
   .card__content {
     max-width: 288px;
-    max-height: 18px;
   }
 
   .card__title {
     line-height: 1;
+    max-width: 195px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 195px;
   }
 
   .card__image {

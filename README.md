@@ -32,4 +32,4 @@ The ability to do responsive design was done with the use of @media queries on v
 
 This webpage is deployed to GitHub Pages:
 
-- Deployment Link:
+- Deployment Link: https://ArtificialF9.github.io/se_project_spots

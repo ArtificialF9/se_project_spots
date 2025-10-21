@@ -10,14 +10,13 @@
   grid-template-columns: repeat(auto-fit, 413px);
   list-style-type: none;
   gap: 40px 20px;
-}
-
+  justify-content: center;
 }
 
 @media screen and (max-width: 630px) {
   .cards__lists {
-    gap: 22px;
-    margin: 0 auto;
+    grid-template-columns: repeat(auto-fit, 288px);
+    gap: 20px 0;
     max-width: 288px;
   }
 }
