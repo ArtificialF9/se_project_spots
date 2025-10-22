@@ -1,6 +1,6 @@
 # Project 3: Spots
 
-A interactive photo galleray that allows users to upload their photos and like photos uploaded by other users.
+An interactive photo gallery that allows users to upload their photos and like photos uploaded by other users.
 
 ## Project & Functionality
 
@@ -25,7 +25,7 @@ Images and icons were extracted from Figma to create the website using the deskt
 
 **Responsive Design**
 
-The ability to do responsive design was done with the use of @media queries on various elements so everything transitions seemlesslessly betwwwen screen sizes.
+The ability to do responsive design was done with the useusing Gridbox and @media queries on various elements so everything transitions seemlessly betwwwen screen sizes.
 ![Media Query](image-2.png)
 
 ## Deployment
