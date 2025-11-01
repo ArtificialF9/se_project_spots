@@ -22,6 +22,7 @@
   border-radius: 8px;
   background-color: #fff;
   position: relative;
+  margin: 10px;
 }
 
 .modal__close-button {
@@ -75,12 +76,16 @@
     padding: 12px 12px;
   }
 
-  .margin__title {
+  .maodal__title {
     margin: 0 0 34px;
     font-size: 20px;
   }
 
   .modal__input {
     max-width: 276px;
+  }
+
+  .modal__submit-button {
+    width: 100%;
   }
 }
